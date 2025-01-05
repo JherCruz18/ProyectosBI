@@ -1,0 +1,124 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>Cubo_Olap_Anita</Database>
+    <Server>DESKTOP-C4O5BRQ</Server>
+    <ConnectionString>Data Source=DESKTOP-C4O5BRQ;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>ToIuFoRnsqx5bQehQTUQ+mdHl2I=21/07/2024 13:12:0221/07/2024 13:12:02</TimeStamp>
+        <ID>
+          <String>Anita Mart</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>9/OvBi72cVqPpSqhJleEmabmGq8=21/07/2024 13:13:3121/07/2024 13:13:31</TimeStamp>
+        <ID>
+          <String>Anita Mart</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>QlazE1dJ/PcfblXPdoqY0tjYZuk=21/07/2024 13:15:0521/07/2024 13:15:05</TimeStamp>
+        <ID>
+          <String>Dim Categoria Productos</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>tkPYqGe50AjAH54Jmti3D8S8cuk=21/07/2024 13:17:2721/07/2024 13:17:27</TimeStamp>
+        <ID>
+          <String>Dim Clientes</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>r658FUTQgS43O3mdxCaf9KziP2Y=21/07/2024 13:17:4521/07/2024 13:17:45</TimeStamp>
+        <ID>
+          <String>Dim Empleados</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>31/591/dmQO6T7QXW8cpnZs4Bc4=21/07/2024 13:18:4121/07/2024 13:18:41</TimeStamp>
+        <ID>
+          <String>Dim Monedas</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>IU4w5ECy0CjHi8Na/jlBAt/aLOA=21/07/2024 13:18:5621/07/2024 13:18:56</TimeStamp>
+        <ID>
+          <String>Dim Productos</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>SmRTykEMpBKWg0qP5N2Q0KxJrNM=21/07/2024 13:19:2321/07/2024 13:19:23</TimeStamp>
+        <ID>
+          <String>Dim Tiendas</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>qYwdYmMirjYImrbT0pPsPsV0xfk=21/07/2024 13:19:4121/07/2024 13:19:41</TimeStamp>
+        <ID>
+          <String>Dim Tipo Documentos</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>376lxDgTxGOCH9D8uUme+f6uqZ8=21/07/2024 13:19:5821/07/2024 13:19:58</TimeStamp>
+        <ID>
+          <String>Dim Tipo Pago</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>2ZdcYKeD/3tait5ehx/xA042jWg=21/07/2024 13:21:0221/07/2024 13:21:02</TimeStamp>
+        <ID>
+          <String>Dim Ubigeos</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ZyRjU/laPPTTHf382WRNNNJlYLM=21/07/2024 14:37:4121/07/2024 14:37:41</TimeStamp>
+        <ID>
+          <String>Dim Fechas</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>lweOqe/M9Zvpf8NyObQrhcPR5FQ=21/07/2024 14:38:1221/07/2024 14:38:1205Mfp4BDE+ppG2mSUVOuff0IOJ4=21/07/2024 14:38:1221/07/2024 14:38:12</TimeStamp>
+        <ID>
+          <String>Anita Mart</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>jeBmB2NS2w1w1DUFT6H+f1qA9UQ=21/07/2024 13:09:1921/07/2024 13:09:18</TimeStamp>
+      <ID>
+        <String>Cubo_Olap_Anita</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2024-07-21T19:38:30.376667Z</LastDeployed>
+</DeploymentSnapshot>

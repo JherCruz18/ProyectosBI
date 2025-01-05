@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Anita Mart.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|solutionrelative:Cubo_Olap_Anita\\Anita Mart.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Fechas.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|solutionrelative:Cubo_Olap_Anita\\Dim Fechas.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Ubigeos.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|solutionrelative:Cubo_Olap_Anita\\Dim Ubigeos.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Tipo Pago.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|solutionrelative:Cubo_Olap_Anita\\Dim Tipo Pago.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Tipo Documentos.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|solutionrelative:Cubo_Olap_Anita\\Dim Tipo Documentos.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Tiendas.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|solutionrelative:Cubo_Olap_Anita\\Dim Tiendas.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Productos.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|solutionrelative:Cubo_Olap_Anita\\Dim Productos.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Monedas.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|solutionrelative:Cubo_Olap_Anita\\Dim Monedas.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Empleados.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|solutionrelative:Cubo_Olap_Anita\\Dim Empleados.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Clientes.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|solutionrelative:Cubo_Olap_Anita\\Dim Clientes.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Categoria Productos.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|solutionrelative:Cubo_Olap_Anita\\Dim Categoria Productos.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Anita Mart.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5E1CC18A-D124-4495-B57C-6D92548B747A}|Cubo_Olap_Anita\\Cubo_Olap_Anita.dwproj|solutionrelative:Cubo_Olap_Anita\\Anita Mart.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Anita Mart.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Anita Mart.cube",
+              "RelativeDocumentMoniker": "Cubo_Olap_Anita\\Anita Mart.cube",
+              "ToolTip": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Anita Mart.cube [Dise\u00F1o]",
+              "RelativeToolTip": "Cubo_Olap_Anita\\Anita Mart.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T19:38:12.649Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Fechas.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Fechas.dim",
+              "RelativeDocumentMoniker": "Cubo_Olap_Anita\\Dim Fechas.dim",
+              "ToolTip": "C:\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Fechas.dim [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Fechas.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T19:37:41.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Ubigeos.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Ubigeos.dim",
+              "RelativeDocumentMoniker": "Cubo_Olap_Anita\\Dim Ubigeos.dim",
+              "ToolTip": "C:\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Ubigeos.dim [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Ubigeos.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T18:21:02.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Tipo Pago.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Tipo Pago.dim",
+              "RelativeDocumentMoniker": "Cubo_Olap_Anita\\Dim Tipo Pago.dim",
+              "ToolTip": "C:\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Tipo Pago.dim [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Tipo Pago.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T18:19:58.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Tipo Documentos.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Tipo Documentos.dim",
+              "RelativeDocumentMoniker": "Cubo_Olap_Anita\\Dim Tipo Documentos.dim",
+              "ToolTip": "C:\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Tipo Documentos.dim [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Tipo Documentos.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T18:19:41.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Tiendas.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Tiendas.dim",
+              "RelativeDocumentMoniker": "Cubo_Olap_Anita\\Dim Tiendas.dim",
+              "ToolTip": "C:\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Tiendas.dim [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Tiendas.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T18:19:23.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Productos.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Productos.dim",
+              "RelativeDocumentMoniker": "Cubo_Olap_Anita\\Dim Productos.dim",
+              "ToolTip": "C:\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Productos.dim [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Productos.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T18:18:56.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dim Monedas.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Monedas.dim",
+              "RelativeDocumentMoniker": "Cubo_Olap_Anita\\Dim Monedas.dim",
+              "ToolTip": "C:\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Monedas.dim [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Monedas.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T18:18:41.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dim Empleados.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Empleados.dim",
+              "RelativeDocumentMoniker": "Cubo_Olap_Anita\\Dim Empleados.dim",
+              "ToolTip": "C:\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Empleados.dim [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Empleados.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T18:17:45.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dim Clientes.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Clientes.dim",
+              "RelativeDocumentMoniker": "Cubo_Olap_Anita\\Dim Clientes.dim",
+              "ToolTip": "C:\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Clientes.dim [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Clientes.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T18:17:27.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dim Categoria Productos.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Categoria Productos.dim",
+              "RelativeDocumentMoniker": "Cubo_Olap_Anita\\Dim Categoria Productos.dim",
+              "ToolTip": "C:\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Categoria Productos.dim [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Dim Categoria Productos.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T18:15:05.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Anita Mart.dsv [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jcruz\\Downloads\\MICROSOFT FABRIC USER ALTAM\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Anita Mart.dsv",
+              "RelativeDocumentMoniker": "Cubo_Olap_Anita\\Anita Mart.dsv",
+              "ToolTip": "C:\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Anita Mart.dsv [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\BD ventas\\Cubo_Olap_Anita\\Cubo_Olap_Anita\\Anita Mart.dsv [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T18:13:47.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
