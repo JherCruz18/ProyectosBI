@@ -40,12 +40,14 @@ git clone https://github.com/JherCruz18/pasteleria-anita-bi.git
 
 El proyecto incluye un dashboard interactivo que permite visualizar métricas clave como:
 
-Ventas por categoría de productos
+Tablero de ventas por categoría de productos, tienda, productos y por empleado.
+![image](https://github.com/user-attachments/assets/18d96559-b0d0-491a-9ebc-abc496322e70)
 
-Tendencias de ventas por mes
+TABLERO DE VENTAS TOTALES POR SEGMENTO DE CLIENTES Y MEDIO DE PAGO
+![image](https://github.com/user-attachments/assets/08c080fe-d535-4cf6-ae71-bba3a1524f59)
 
-Comportamiento de los clientes
+TABLE DE CONTROL DE CLIENTES NUEVOS
+![image](https://github.com/user-attachments/assets/c347668f-8e08-4089-b37e-a231bfcc4762)
 
-Productos más vendidos
 
 📌 Nota: Este proyecto es un caso de estudio académico y no representa datos reales de una empresa comercial.
